@@ -1,0 +1,17 @@
+{
+  "name": "advaced-org-server",
+  "version": "1.0.0",
+  "description": "Temporary backend of the Advaced.org website (until smart contracts are implemented).",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diesdasnicolas",
+  "license": "ISC",
+  "devDependencies": {
+    "prisma": "^3.10.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.10.0"
+  }
+}
